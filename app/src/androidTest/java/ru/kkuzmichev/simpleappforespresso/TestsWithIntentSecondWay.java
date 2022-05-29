@@ -15,7 +15,7 @@ import static androidx.test.espresso.intent.matcher.IntentMatchers.hasData;
 import static androidx.test.espresso.intent.matcher.IntentMatchers.hasAction;
 
 import android.content.Intent;
-import android.widget.ActionMenuView;
+import androidx.appcompat.widget.ActionMenuView;
 
 import androidx.test.espresso.intent.rule.IntentsTestRule;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
